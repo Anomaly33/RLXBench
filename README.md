@@ -40,3 +40,16 @@ the following environments are currently implemented
 | DRL10              | Reacher                        |
 | DRL11              | Walker 2D                      |
 | DRL12              | Lunar Lander                   |
+
+If you find this code or project helpful in your research, please cite our paper:
+```
+@article{ajani2024deep,
+  title={Deep reinforcement learning as multiobjective optimization benchmarks: Problem formulation and performance assessment},
+  author={Ajani, Oladayo S and Ivan, Dzeuban Fenyom and Darlan, Daison and Suganthan, PN and Gao, Kaizhou and Mallipeddi, Rammohan},
+  journal={Swarm and Evolutionary Computation},
+  volume={90},
+  pages={101692},
+  year={2024},
+  publisher={Elsevier}
+}
+```
